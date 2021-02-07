@@ -1,9 +1,10 @@
 module.exports = {
-  name: 'London After Midnight',
-  shortName: 'LAM',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
+  name: 'Tobacco Hut Centreville',
+  shortName: 'Tobacco Hut',
+  description: 'A sleek static website for Tobacco Hut in Centreville, VA',
   url: 'https://gatsby-lam.vaporwavy.io', // Domain of your site without prefix!
   prefix: '/',
-  author: 'Vaporwavy',
-  twitter: ''
+  author: 'Tiffany Abraham',
+  github: 'boostinwrx',
+  portfolio: 'https://tiffany-codes.com/'
 }
