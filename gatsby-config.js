@@ -13,7 +13,10 @@ module.exports = {
     },
   },
   plugins: [
+    // `gatsby-plugin-sharp`,
+    // `gatsby-plugin-image`,
     {
+
       resolve: `gatsby-source-contentful`,
       options: {
         spaceId: `irj8wjjmbwxp`,
